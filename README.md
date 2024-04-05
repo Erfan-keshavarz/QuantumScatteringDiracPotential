@@ -41,7 +41,7 @@ If you have any questions or feedback regarding this repository, please feel fre
 
 - Erfan keshavarz 
   - Email: erfan.keshavarz@emu.edu.tr
-  - GitHub: [Erfan-keshavarz]([https://github.com/Erfan-keshavarz])
+  - GitHub: [Erfan-keshavarz](https://github.com/Erfan-keshavarz)
 
 
 
