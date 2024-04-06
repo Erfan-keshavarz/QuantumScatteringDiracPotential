@@ -28,7 +28,7 @@ The project utilized the following libraries:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies.
-3. Open the `Quantum Scattering from Dirac potentials.ipynb` file using Jupyter Notebook or any other IDEs.
+3. Open the `QuantumScatteringDiracpotentials.ipynb` file using Jupyter Notebook or any other IDEs.
 4. Run the code sequentially to perform simmulation. 
 
 ## License 
